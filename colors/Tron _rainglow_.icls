@@ -4,7 +4,7 @@
     <property name="created">2017-12-13T12:00:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2018-06-29T18:45:55</property>
+    <property name="modified">2018-06-30T09:22:34</property>
     <property name="originalScheme">Tron</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -17,8 +17,6 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="6ee2ff" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
@@ -238,7 +236,7 @@
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="267fb5" />
+        <option name="FOREGROUND" value="70a5b5" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
