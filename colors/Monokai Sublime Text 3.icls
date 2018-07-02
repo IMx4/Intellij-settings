@@ -482,6 +482,24 @@
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="e4e4e4" />
+        <option name="BACKGROUND" value="3e3e3e" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="e4e4e4" />
+        <option name="BACKGROUND" value="3e3e3e" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="e4e4e4" />
+        <option name="BACKGROUND" value="3e3e3e" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
