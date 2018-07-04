@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="src" type="JAVA" />
+      <mapping pattern="._.DS_Store" type="PLAIN_TEXT" />
+      <mapping ext="gfx" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
