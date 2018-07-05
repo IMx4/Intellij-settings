@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/uf-cise-cs1/gatorraider.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/IMx4/Lab-5.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\desktop\JavaProjects" />
+    <option name="cloneParentDir" value="$APPLICATION_HOME_DIR$/bin/C:\desktop\JavaProjects" />
   </component>
 </application>
