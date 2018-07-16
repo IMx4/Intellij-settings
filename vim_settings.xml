@@ -1,0 +1,32 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/P4-simple/src/edu/ufl/cise/cs1/controllers/StudentAttackerController.java" timestamp="1531696980984">
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="46" column="35" />
+        <mark key="^" line="46" column="35" />
+        <mark key="." line="46" column="35" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNodXRkb3duKEdhbWUgZ2FtZSkgewo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNodXRkb3duKEdhbWUgZ2FtZSkgewo=</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
