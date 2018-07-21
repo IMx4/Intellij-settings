@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/IMx4/Lab-6.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/uf-cise-cs1/robocode.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\BPCT\IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
 </application>
